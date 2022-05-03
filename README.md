@@ -23,6 +23,14 @@
 <br/>  
 
 
+## 😂 Here is a random joke that'll make you laugh!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+<br/>
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
