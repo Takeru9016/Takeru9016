@@ -23,14 +23,6 @@
 <br/>  
 
 
-## 😂 Here is a random joke that'll make you laugh!
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-<br/>
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -92,6 +84,22 @@
 <br/>  
 
 
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+<br/>
+
+
+### 😂Random Dev Meme
+
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+
+<br/>
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Takeru9016" target="_blank">
@@ -115,19 +123,22 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 📊Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Takeru9016&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeru9016&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+![](https://github-readme-stats.vercel.app/api?username=Takeru9016&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Takeru9016&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Takeru9016&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <br/>  
+
+
+## 🏆GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Takeru9016&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br/>
 
 
 ## Spotify Listening  
@@ -136,13 +147,12 @@
 <br/>  
 
 
-## Visitor Counter  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Takeru9016&&style=flat-square" align="center" />
-</div>  
-  
+## 😂 Here is a random joke that'll make you laugh!
 
-<br/>  
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+<br/>
 
 
 ## Support Me  
