@@ -84,7 +84,7 @@
 <br/>  
 
 
-### ✍️Random Dev Quote
+### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -92,7 +92,7 @@
 <br/>
 
 
-### 😂Random Dev Meme
+### 😂 Random Dev Meme
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
@@ -123,7 +123,7 @@
 <br/>  
 
 
-## 📊Github Stats  
+## 📊 Github Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=Takeru9016&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Takeru9016&theme=midnight-purple&hide_border=false)<br/>
@@ -133,7 +133,7 @@
 <br/>  
 
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Takeru9016&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
@@ -164,5 +164,3 @@
                 />
             </a></div>
 <br />
-
-----
