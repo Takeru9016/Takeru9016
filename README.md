@@ -92,14 +92,6 @@
 <br/>
 
 
-### 😂 Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-
-<br/>
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Takeru9016" target="_blank">
@@ -139,12 +131,6 @@
 
 
 <br/>
-
-
-## Spotify Listening  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sahiljadhav12367890&cover_image=true&theme=compact" /></div>  
-
-<br/>  
 
 
 ## 😂 Here is a random joke that'll make you laugh!
