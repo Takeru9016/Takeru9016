@@ -133,6 +133,14 @@
 <br/>
 
 
+## Spotify Listening
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sahiljadhav12367890&cover_image=true&theme=default&bar_color_cover=false&bar_color=e5a50a" /></div>
+
+
+<br/>
+
+
 ## 😂 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
