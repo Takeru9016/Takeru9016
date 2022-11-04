@@ -5,10 +5,13 @@
 </div>  
 
 
-### <div align="right">I'm Sahil Jadhav (a.k.a, Takeru Ohyama), a full-time frontend freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+<div>
+<div align="right">I'm Sahil Jadhav (a.k.a, Takeru Ohyama), a full-time frontend freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
 
 <div align="left">
-<a href="https://app.daily.dev/Takeru9016"><img src="https://api.daily.dev/devcards/9e165f89605b4eb5a85510d9f7f1af18.png?r=1jx" width="400" alt="Sahil Jadhav's Dev Card"/></a>
+<a href="https://app.daily.dev/Takeru9016"><img src="https://github.com/Takeru9016/Takeru9016/blob/master/devcard.svg" width="400" alt="Sahil Jadhav's Dev Card"/></a>
+</div>
+
 </div>
   
 
