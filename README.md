@@ -20,7 +20,9 @@
 - ⚡ Fun fact: I use tabs over spaces  
 
 
+<div align="center">
 <a href="https://app.daily.dev/Takeru9016"><img src="https://api.daily.dev/devcards/9e165f89605b4eb5a85510d9f7f1af18.png?r=pvo" width="400" alt="Sahil Jadhav's Dev Card"/></a>
+</div>
 
 
 <br/>  
