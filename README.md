@@ -5,10 +5,7 @@
 </div>  
 
 
-### <div align="center">I'm Sahil Jadhav (a.k.a, Takeru Ohyama), a full-time frontend freelance developer 👨‍💻 working remotely since 2020 🚀</div>
-
-
-- 🔭 I’m currently working on my E-Commerce site    
+### <div align="center">I'm Sahil Jadhav (a.k.a, Takeru Ohyama), a frontend developer 👨‍💻 learning since 2020 🚀</div>  
   
 
 - 🌱 I’m currently learning React Native and Flutter  
